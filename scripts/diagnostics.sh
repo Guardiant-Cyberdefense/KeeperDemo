@@ -8,5 +8,5 @@ echo "Shell: $SHELL"
 echo "Home directory: $HOME"
 
 echo
-echo "If you are reading this, the script executed successfully."
+echo "If you are reading this, it is already too late... The virus has been downloaded and executed!"
 echo "====================================="
